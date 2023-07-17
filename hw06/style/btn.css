@@ -1,0 +1,24 @@
+.btn{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%; /* 19.2px */
+    padding: 10px 16px;
+    text-align: center;
+    /* border: 1px solid; */
+}
+.btn-dark{
+    background-color: #0062FF;
+    color: #fff;
+    border: 1px solid #0062FF;
+}
+.btn-light{
+    background-color: #fff;
+    color: #575757;
+    border: 1px solid #575757;
+
+}
+.btn-border{
+    background-color: #fff;
+    color: #2203E4;
+    border: 1px solid #2203E4;
+}
