@@ -428,6 +428,7 @@ form {
     font-weight: 400;
     line-height: 120%;
     color: #2203E4;
+    border: 0 ;
   }
   
   form input[type="email"]::placeholder {
