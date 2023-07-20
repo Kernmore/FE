@@ -22,8 +22,9 @@ body {
     color: #575757;
     margin: 0 auto;
     font-size: 16px;
-font-weight: 400;
-line-height: 120%; /* 19.2px */
+    font-weight: 400;
+    line-height: 120%;
+    /* 19.2px */
 
 }
 
@@ -214,9 +215,11 @@ h2 {
     padding: 71px 0;
     color: #fff;
 }
-.clients p{
+
+.clients p {
     color: #fff;
 }
+
 .clients-conteiner>h3 {
     margin-bottom: 14px;
 }
@@ -345,13 +348,15 @@ h4 {
     color: #575757;
 }
 
-.op-conteiner h2{
+.op-conteiner h2 {
     padding-bottom: 12px;
 }
-.op-conteiner>p{
+
+.op-conteiner>p {
     padding-bottom: 42px;
     width: 611px;
 }
+
 .white-rectangle {
     background-color: #fff;
     justify-content: space-between;
@@ -390,33 +395,37 @@ h4 {
     padding-left: 16px;
 }
 
-.sum-conteiner{
+.sum-conteiner {
     justify-content: center;
     width: 951px;
     flex-direction: column;
     padding: 89px 0 103px;
     margin: 0 auto;
 }
-.sum-conteiner>h2{
+
+.sum-conteiner>h2 {
     padding-bottom: 12px;
 }
-.sum-conteiner>h3{
+
+.sum-conteiner>h3 {
     font-size: 27px;
     padding-bottom: 28px;
 }
-.sum-conteiner p{
+
+.sum-conteiner p {
     margin: 0 auto;
     width: 611px;
 }
+
 form {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 508px;
     margin: 0 auto;
-  }
-  
-  form input[type="email"] {
+}
+
+form input[type="email"] {
     width: 508px;
     height: 70px;
     flex-shrink: 0;
@@ -428,41 +437,53 @@ form {
     font-weight: 400;
     line-height: 120%;
     color: #2203E4;
-    border: 0 ;
-  }
-  
-  form input[type="email"]::placeholder {
+    border: 0;
+}
+
+form input[type="email"]::placeholder {
     font-size: 16px;
     font-weight: 400;
     line-height: 120%;
     color: #2203E4;
-  }
-  
-.frame{
+}
+
+.frame {
     align-items: center;
     padding: 74px 0;
 }
-.frame>img{
+
+.frame>img {
     padding-right: 12px;
 }
-.sum-content{
+
+.sum-content {
     text-align: left;
 }
-.sum-content p{
+
+.sum-content p {
     text-align: left;
     margin: 0;
 }
-.sum-content img{
+
+.sum-content img {
     padding-right: 17px;
 }
-.sum-content h2{
+
+.sum-content h2 {
     color: #2203E4;
     text-align: left;
 }
-.sum-item{
+
+.sum-item {
     padding-bottom: 16px;
 }
-.sum-conteiner button{
+
+.sum-conteiner button {
     width: 508px;
     margin: 0 auto;
+
+}
+
+.mobile-br{
+    display: none;
 }
